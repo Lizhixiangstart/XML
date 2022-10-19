@@ -1,0 +1,5 @@
+# Project exclude paths
+/Demo/target/
+/JavaWeb/web/WEB-INF/classes/
+/out/
+/Servlet/target/
